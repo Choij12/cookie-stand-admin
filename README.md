@@ -23,4 +23,6 @@ pages/Index.js should return top level component <CookieStandAdmin>
 - If reports is empty then render `<h2>No Cookie Stands Available</h2>`
 - If reports is not empty then render a table with thead,tbody and tfoot components.
 
-
+## Work in Progress:
+- Deployment is in progress once I get all of the bugs fixed: 
+![](deployment.png)
